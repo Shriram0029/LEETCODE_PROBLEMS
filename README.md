@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +53,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
