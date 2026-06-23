@@ -26,6 +26,7 @@
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +159,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -172,6 +176,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
