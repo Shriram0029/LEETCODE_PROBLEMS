@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0191-number-of-1-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
 ## Backtracking
 |  |
 | ------- |
