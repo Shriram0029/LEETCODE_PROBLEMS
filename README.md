@@ -50,6 +50,7 @@
 | [0007-reverse-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
