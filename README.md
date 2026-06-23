@@ -78,6 +78,7 @@
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
