@@ -82,6 +82,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0263-ugly-number) |
 ## Sorting
 |  |
 | ------- |
