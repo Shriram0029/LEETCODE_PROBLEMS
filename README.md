@@ -34,6 +34,7 @@
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +203,7 @@
 | [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Greedy
 |  |
 | ------- |
