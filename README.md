@@ -201,6 +201,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Backtracking
 |  |
 | ------- |
