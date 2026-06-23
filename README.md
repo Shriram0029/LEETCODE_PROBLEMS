@@ -76,6 +76,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 ## Math
 |  |
 | ------- |
