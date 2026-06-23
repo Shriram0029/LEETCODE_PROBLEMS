@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
