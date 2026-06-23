@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0704-binary-search](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
