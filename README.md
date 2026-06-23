@@ -210,6 +210,7 @@
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |
