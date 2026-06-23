@@ -153,6 +153,7 @@
 | [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
+| [1175-prime-arrangements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1175-prime-arrangements) |
 ## Sorting
 |  |
 | ------- |
