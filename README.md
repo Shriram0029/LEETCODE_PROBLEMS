@@ -165,6 +165,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1518-water-bottles](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1518-water-bottles) |
 ## Sorting
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
+| [1518-water-bottles](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1518-water-bottles) |
 ## Rolling Hash
 |  |
 | ------- |
