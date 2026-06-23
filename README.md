@@ -62,6 +62,7 @@
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [1143-longest-common-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
 |  |
 | ------- |
