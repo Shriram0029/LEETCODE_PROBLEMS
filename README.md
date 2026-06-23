@@ -61,6 +61,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 ## Math
 |  |
 | ------- |
