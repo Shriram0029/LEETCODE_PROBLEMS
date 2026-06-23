@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +88,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
