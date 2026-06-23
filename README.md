@@ -160,6 +160,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0693-binary-number-with-alternating-bits) |
 ## Backtracking
 |  |
 | ------- |
