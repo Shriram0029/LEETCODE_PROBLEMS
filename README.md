@@ -171,6 +171,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [1201-ugly-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 ## Recursion
 |  |
 | ------- |
