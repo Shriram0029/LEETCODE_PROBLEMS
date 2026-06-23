@@ -32,6 +32,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
+| [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 ## Sliding Window
 |  |
 | ------- |
