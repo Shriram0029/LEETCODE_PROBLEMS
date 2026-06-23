@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 ## Sorting
 |  |
 | ------- |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
