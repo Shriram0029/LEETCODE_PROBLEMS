@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +140,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -160,4 +165,13 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
