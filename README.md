@@ -36,6 +36,7 @@
 | [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [1175-prime-arrangements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1201-ugly-number-iii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sorting
 |  |
 | ------- |
