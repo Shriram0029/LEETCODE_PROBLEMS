@@ -22,6 +22,7 @@
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +89,7 @@
 | [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +118,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
