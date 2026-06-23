@@ -77,6 +77,7 @@
 | [0029-divide-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0190-reverse-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
