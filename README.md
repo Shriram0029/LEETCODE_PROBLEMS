@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
