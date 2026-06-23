@@ -38,6 +38,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1672-richest-customer-wealth](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -289,4 +290,8 @@
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1201-ugly-number-iii) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
