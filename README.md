@@ -21,6 +21,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
