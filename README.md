@@ -19,6 +19,7 @@
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
