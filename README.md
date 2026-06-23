@@ -134,6 +134,7 @@
 | [0371-sum-of-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
