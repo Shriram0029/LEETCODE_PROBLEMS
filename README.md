@@ -31,6 +31,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0409-longest-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 ## String
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0371-sum-of-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 ## Backtracking
 |  |
 | ------- |
