@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
