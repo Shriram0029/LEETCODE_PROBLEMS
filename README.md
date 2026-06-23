@@ -81,6 +81,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
