@@ -128,6 +128,7 @@
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 ## Simulation
 |  |
 | ------- |
