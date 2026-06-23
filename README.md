@@ -33,6 +33,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
+| [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,4 +255,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
