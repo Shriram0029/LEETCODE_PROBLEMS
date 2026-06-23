@@ -62,6 +62,7 @@
 | [0409-longest-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
+| [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 ## Sorting
 |  |
 | ------- |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 <!---LeetCode Topics End-->
