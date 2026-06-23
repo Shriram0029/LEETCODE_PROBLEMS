@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +47,8 @@
 | [0007-reverse-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
