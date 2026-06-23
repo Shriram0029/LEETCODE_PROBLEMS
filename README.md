@@ -86,6 +86,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Math
 |  |
 | ------- |
