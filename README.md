@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
