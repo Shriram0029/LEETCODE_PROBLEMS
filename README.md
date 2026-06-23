@@ -158,6 +158,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1137-n-th-tribonacci-number) |
 | [1175-prime-arrangements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1201-ugly-number-iii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
