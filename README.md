@@ -37,6 +37,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
 | ------- |
