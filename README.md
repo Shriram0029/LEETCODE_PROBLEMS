@@ -39,6 +39,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1672-richest-customer-wealth](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1518-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [1201-ugly-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1201-ugly-number-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Recursion
 |  |
 | ------- |
