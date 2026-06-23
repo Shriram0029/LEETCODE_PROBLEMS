@@ -66,6 +66,7 @@
 | [0009-palindrome-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0172-factorial-trailing-zeroes) |
 ## Sorting
 |  |
 | ------- |
