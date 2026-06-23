@@ -35,6 +35,7 @@
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
