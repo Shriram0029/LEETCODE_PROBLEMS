@@ -40,6 +40,7 @@
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
+| [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
