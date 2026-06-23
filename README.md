@@ -51,6 +51,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0078-subsets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
 | ------- |
