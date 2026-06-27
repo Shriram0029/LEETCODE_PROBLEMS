@@ -158,6 +158,7 @@
 | [0263-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
@@ -303,4 +304,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
