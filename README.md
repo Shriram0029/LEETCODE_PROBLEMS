@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
@@ -132,6 +133,7 @@
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
