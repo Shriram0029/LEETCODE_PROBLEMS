@@ -81,6 +81,7 @@
 | [0409-longest-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
