@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
@@ -136,6 +137,7 @@
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
