@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
@@ -133,6 +134,7 @@
 | [0011-container-with-most-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
@@ -202,6 +205,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -324,4 +328,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
