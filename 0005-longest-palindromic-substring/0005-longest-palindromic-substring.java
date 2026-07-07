@@ -13,7 +13,7 @@ class Solution {
             int odd = expand(s,i,i);
             int even = expand(s,i,i+1);
             int len = Math.max(odd,even);
-            if(len > end - start + 1){
+            if(len > (end - start)){
                 start = i - (len-1)/2; 
                 end = i + len/2;
             }
