@@ -32,6 +32,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
