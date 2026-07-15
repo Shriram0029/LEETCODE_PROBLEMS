@@ -194,6 +194,7 @@
 | [1518-water-bottles](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [1201-ugly-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
