@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0338-counting-bits) |
