@@ -48,6 +48,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1672-richest-customer-wealth](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -275,6 +279,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +321,7 @@
 | ------- |
 | [0537-complex-number-multiplication](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0537-complex-number-multiplication) |
 | [1518-water-bottles](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1518-water-bottles) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Rolling Hash
 |  |
 | ------- |
