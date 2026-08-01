@@ -40,6 +40,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,6 +71,7 @@
 | [0409-longest-palindrome](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -113,6 +115,7 @@
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
