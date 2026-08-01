@@ -27,6 +27,7 @@
 | [0217-contains-duplicate](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -308,6 +310,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
@@ -323,6 +326,7 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
@@ -367,4 +371,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
