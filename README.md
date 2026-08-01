@@ -42,6 +42,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1095-find-in-mountain-array) |
@@ -73,6 +74,7 @@
 | [0567-permutation-in-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0982-triples-with-bitwise-and-equal-to-zero) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1207-unique-number-of-occurrences) |
@@ -116,6 +118,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -265,6 +268,7 @@
 | [0383-ransom-note](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shriram0029/LEETCODE_PROBLEMS/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Greedy
