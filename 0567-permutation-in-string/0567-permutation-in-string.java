@@ -1,6 +1,16 @@
 class Solution {
     public boolean match(Map<Character, Integer> map, Map<Character, Integer> maps1){
-        return maps1.equals(map);
+        if(map.size() != maps1.size()) return false;
+
+        for(Map.Entry<Character, Integer> entry : map.entrySet()){
+            char key = entry.getKey();
+            int val = entry.getValue();
+
+            if (!maps1.containsKey(key) || !maps1.get(key).equals(val)) {
+                return false;
+            }
+        }
+        return true;
     }
     public boolean checkInclusion(String s1, String s2) {
         int n = s1.length();
