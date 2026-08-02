@@ -20,16 +20,22 @@ class Solution {
         for(int k=0;k<n;k++){
             maps1.put(s1.charAt(k), maps1.getOrDefault(s1.charAt(k), 0) + 1);
         }
-
-        for(int i=0;i<m;i++){
-            Map<Character, Integer> map = new HashMap<>();
-            for(int j=i;j<m;j++){
-                map.put(s2.charAt(j), map.getOrDefault(s2.charAt(j),0) + 1);
-                if(j - i + 1 == n){
-                    if(match(map,maps1))
-                        return true;
+        
+        Map<Character, Integer> map = new HashMap<>();
+        int left = 0;
+        for(int right=0;right<m;right++){
+            map.put(s2.charAt(right), map.getOrDefault(s2.charAt(right),0) + 1);
+            if(right - left + 1 > n){
+                char leftChar = s2.charAt(left);
+                map.put(leftChar,map.get(leftChar) - 1);
+                if(map.get(leftChar) == 0) {
+                    map.remove(leftChar);
                 }
-                if(j - i + 1 > n) break;
+                left++;
+            }
+            if(right - left + 1 == n){
+                if(match(map, maps1))
+                    return true;
             }
         }
         return false;
